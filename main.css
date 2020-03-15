@@ -9,3 +9,27 @@ body {
 h1 {
  line-height:1.2;
 }
+h2 {
+ line-height:1.2;
+}
+ul {
+list-style-type: none;
+}
+
+h3 {
+font: bold 20px/1.5;
+}
+
+li img {
+float: top;
+margin: 0 15px 0 0;
+}
+
+li p {
+font: 200 12px/1.5;
+}
+
+li {
+padding: 10px;
+overflow: auto;
+}
