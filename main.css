@@ -1,0 +1,11 @@
+body {
+ margin:1em auto;
+ background-color:black;
+ color:white;
+ max-width:50em;
+ padding:0.62em;
+ font:1.2em/1.6 sans-serif;
+}
+h1 {
+ line-height:1.2;
+}
